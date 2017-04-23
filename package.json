@@ -1,5 +1,5 @@
 {
-  "name": "@Touched/react-three-gba",
+  "name": "@touched/react-three-gba",
   "version": "0.0.1",
   "description": "Renders GBA graphics using THREE.js and React",
   "main": "lib/index.js",
